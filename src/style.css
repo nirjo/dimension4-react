@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: rgb(139, 0, 58);
+  color: white;
+}
+
+chart {
+  display: flex;
+}

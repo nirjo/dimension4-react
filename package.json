@@ -1,0 +1,35 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "7.16.7",
+    "@emotion/react": "11.7.1",
+    "@emotion/styled": "11.6.0",
+    "@mui/icons-material": "5.2.5",
+    "@mui/material": "5.2.7",
+    "@mui/styles": "^5.2.3",
+    "@types/react": "17.0.38",
+    "chart.js": "3.7.0",
+    "history": "^5.2.0",
+    "lodash": "4.17.21",
+    "null": "2.0.0",
+    "prop-types": "15.8.0",
+    "react": "17.0.2",
+    "react-chartjs-2": "4.0.0",
+    "react-dom": "17.0.2",
+    "react-is": ">= 16.8.0",
+    "react-router-dom": "6.2.1",
+    "react-swipeable-views": "0.14.0",
+    "styled-components": "^5.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
